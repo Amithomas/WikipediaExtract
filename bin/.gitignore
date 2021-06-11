@@ -1,0 +1,11 @@
+
+.classpath
+.project
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+target/classes/com/wiki/extract/App.class
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/com.wiki/extract/pom.properties
+target/classes/META-INF/maven/com.wiki/extract/pom.xml
+target/test-classes/com/wiki/extract/AppTest.class
